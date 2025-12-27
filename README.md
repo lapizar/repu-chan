@@ -38,5 +38,5 @@ Bot Discord untuk sistem reputasi dengan leaderboard, admin tools, dan berbagai 
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/discord-reputation-bot.git
-   cd discord-reputation-bot
+   git clone https://github.com/lapizar/repu-chan.git
+   cd repu-chan
